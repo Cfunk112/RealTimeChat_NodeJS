@@ -4,7 +4,7 @@ const config={
         DATABASE: process.env.MONGODB_URI
     },
     default : {
-        SECRET: 'mysecretkey',
+        SECRET: 'SUPERSECRETPASSWORD',
         DATABASE: 'mongodb://localhost:27017/Users'
     }
 }
